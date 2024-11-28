@@ -40,7 +40,7 @@ def decrypt_image(input_path, output_path, key):
  
 input_image = r"C:\Users\pandurangavital maha\OneDrive\Desktop\portfolio\input.jpg"
 encrypted_image = r"C:\Users\pandurangavital maha\OneDrive\Desktop\project\encrypted_image.jng.bmp"
-decrypted_image = r""C:\Users\pandurangavital maha\OneDrive\Desktop\project\decrypted_image.jpg.bmp"
+decrypted_image = r"C:\Users\pandurangavital maha\OneDrive\Desktop\project\decrypted_image.jpg.bmp"
 encrypt_image(input_image, encrypted_image, key=None)
 
 
